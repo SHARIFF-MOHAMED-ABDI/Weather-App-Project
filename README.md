@@ -24,7 +24,7 @@
 
 ## Screenshots
 
-![WeatherWave Dashboard](path_to_screenshot.png)
+![WeatherWave Dashboard](PROJECTPIC.PNG)
 
 ## Installation
 
