@@ -31,3 +31,6 @@
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/your-username/WeatherWave-Dashboard.git
+
+## License (MIT License)
+This project is licensed under the MIT License - see the LICENSE file for details. (c) Shariff Mohamed Abdi.
